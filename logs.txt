@@ -1,0 +1,8 @@
+2022-09-01 15:40:22.002051 One user leaved the chat, 1 person.s remaining.
+2022-09-01 15:43:28.892357: One user leaved the chat, 0 person.s remaining.
+2022-09-01 15:46:07.715453: One user leaved the chat, 0 person.s remaining.
+2022-09-01 15:59:51.313315: One user leaved the chat, 3 person.s remaining.
+2022-09-01 15:59:55.120742: One user leaved the chat, 2 person.s remaining.
+2022-09-01 16:00:01.084061: One user leaved the chat, 1 person.s remaining.
+2022-09-01 16:00:04.905291: One user leaved the chat, 1 person.s remaining.
+2022-09-01 16:00:09.352936: One user leaved the chat, 0 person.s remaining.
